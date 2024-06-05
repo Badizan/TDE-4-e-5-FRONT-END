@@ -1,0 +1,11 @@
+.buttonContainer {
+    background-color: #a4fce2;
+    padding: 8px;
+    font-size: 16px;
+    border-width: 0;
+    border-radius: 4px;
+
+    &:hover {
+        background-color: #79d4b8;
+    }
+}
